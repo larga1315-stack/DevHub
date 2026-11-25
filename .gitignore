@@ -1,0 +1,9 @@
+.build/
+.swiftpm/
+build/
+.devhub-build/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+.env
+.env.*
